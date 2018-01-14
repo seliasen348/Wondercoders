@@ -1,0 +1,62 @@
+h1 {
+  font-family: 'Oswald', sans-serif;
+} 
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  font-family: font-family: 'Lato', sans-serif;
+}
+
+body {
+  background-color: grey; 
+}
+
+
+#container-1 {
+  background-color: black; 
+  width: 100%;
+  text-align: left;
+
+}
+
+#container-2 {
+  background-color: grey; 
+  width: 100%;
+  text-align: left;
+}
+
+#header-container {
+  text-align: center;
+  padding-top: 300px;
+  color: white;
+  margin-top: 0px;
+}  
+
+#header-container h1 {
+  font-size: 70px;
+}
+
+.banner-content {
+  height: 70vh;
+}
+
+.myleftColumn {
+  text-align: center; 
+  height: 400px;
+  padding-top: 50px;
+}
+
+.myrightColumn {
+  padding-top: 50px;
+  color: white;
+  text-align: left;
+}
+
+
+
+
+
+
