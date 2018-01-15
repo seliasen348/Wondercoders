@@ -1,62 +1,31 @@
-h1 {
-  font-family: 'Oswald', sans-serif;
-} 
-
-h2 {
-  font-family: 'Oswald', sans-serif;
-}
-
-p {
-  font-family: font-family: 'Lato', sans-serif;
-}
-
-body {
-  background-color: grey; 
-}
-
-
 #container-1 {
-  background-color: black; 
-  width: 100%;
-  text-align: left;
-
-}
+	background-color: black; 
+	width: 100%;
+	position: relative;
+	padding: 50px;
+}	
 
 #container-2 {
-  background-color: grey; 
-  width: 100%;
-  text-align: left;
+	background-color: gray;
+	width: 100%;
 }
+
 
 #header-container {
-  text-align: center;
-  padding-top: 300px;
-  color: white;
-  margin-top: 0px;
-}  
-
-#header-container h1 {
-  font-size: 70px;
+	height: 100vh;
+	color: white;
+  	text-align: center;
+  	background-size: cover !important;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	background-image: linear-gradient(-135deg, rgba(80,0,48,0.6) 50%, rgba(0,36,61,0.6) 50%), url('https://unsplash.it/2000');
+  	width: 100%;
 }
 
-.banner-content {
-  height: 70vh;
+.img-circle {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 40%;
 }
-
-.myleftColumn {
-  text-align: center; 
-  height: 400px;
-  padding-top: 50px;
-}
-
-.myrightColumn {
-  padding-top: 50px;
-  color: white;
-  text-align: left;
-}
-
-
-
-
-
-
